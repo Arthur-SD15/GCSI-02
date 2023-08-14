@@ -1,12 +1,8 @@
-<h1 align="center">
-  Cadastro de Pessoas  
-</h1>
+## ♻️ Reutilizado
 
-<p align="center">
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-aluno">Aluno</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-professor">Professor</a>
-</p>
+Algumas propriedades dessa atividade, originalmente do professor Picolo de PTAS, foram utilizadas para a atividade de GSI do professor Fabio Duarte. O motivo para isso é economizar tempo e enfatizar o que foi solicitado.
+
+<br/>
 
 <p align="center">
   <img src="logo_ifms.png" width="300px">
